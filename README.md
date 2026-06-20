@@ -22,11 +22,4 @@ This project demonstrates core programming fundamentals—such as continuous whi
 
 ---
 
-## 📦 Installation & How to Run
 
-To run this chatbot locally on your machine, follow these steps:
-
-1. **Clone the repository:**
-```bash
-   git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
-   cd YOUR-REPO-NAME
